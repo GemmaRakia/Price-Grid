@@ -1,0 +1,82 @@
+body {
+    background-color: hsl(204, 43%, 93%);
+    font-family: 'Karla', sans-serif;
+}
+
+.card-container {
+    margin-left: 30%;
+    width: 600px;
+    height: 500px;
+}
+
+
+.card {
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    padding-top: 30px;
+}
+.card-footer {
+    display: flex;
+    background-color:hsl(179, 62%, 43%) ;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 20px;
+}
+
+.card-1 {
+    width: 400px;
+    padding-left: 10px;
+    padding-bottom: 20px ;
+}
+
+button {
+    width: 170px;
+    height: 37px;
+    font-size: 12px;
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+    box-shadow: whitesmoke;
+    border-color: hsl(71, 73%, 54%);
+    border-radius: 3px;
+    margin-left: 42px;
+    margin-bottom: 20px;
+}
+.card-2 {
+    width: 400px;
+    opacity: 10;
+    background-color: hsl(173, 48%, 54%); 
+    border-bottom-right-radius: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    
+}
+h1 {
+    margin-left: 35px;
+}
+span {
+    font-size: 15px;
+}
+h3 {
+    color: hsl(179, 62%, 43%);
+    margin-left: 35px;
+}
+h4 {
+    color: hsl(71, 73%, 54%);
+    margin-left: 35px;
+}
+
+p {
+    margin-left: 35px;
+    font-size: 12px;
+    color: rgb(170, 230, 227);
+    line-height: 0.4rem;
+}
+
+#title {
+    color: white;
+}
+#sub {
+    color:hsl(218, 22%, 67%) ;
+    
